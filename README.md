@@ -1,4 +1,5 @@
-🧠 Machine Learning Projects
+🧠 Machine Learning Projects:
+
 This repository showcases the machine learning projects I completed during my internship at CodSoft. Each project focuses on solving real-world problems using classification and prediction techniques. Through these tasks, I gained hands-on experience with data preprocessing, model building, evaluation, and visualization.
 
 📌 Project Highlights
